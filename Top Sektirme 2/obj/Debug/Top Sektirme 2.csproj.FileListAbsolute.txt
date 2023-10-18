@@ -1,0 +1,10 @@
+C:\Users\NİGHT\Desktop\C# Projeler\Top Sektirme 2\Top Sektirme 2\bin\Debug\Top Sektirme 2.exe.config
+C:\Users\NİGHT\Desktop\C# Projeler\Top Sektirme 2\Top Sektirme 2\bin\Debug\Top Sektirme 2.exe
+C:\Users\NİGHT\Desktop\C# Projeler\Top Sektirme 2\Top Sektirme 2\bin\Debug\Top Sektirme 2.pdb
+C:\Users\NİGHT\Desktop\C# Projeler\Top Sektirme 2\Top Sektirme 2\obj\Debug\Top Sektirme 2.csproj.AssemblyReference.cache
+C:\Users\NİGHT\Desktop\C# Projeler\Top Sektirme 2\Top Sektirme 2\obj\Debug\Top_Sektirme_2.Properties.Resources.resources
+C:\Users\NİGHT\Desktop\C# Projeler\Top Sektirme 2\Top Sektirme 2\obj\Debug\Top Sektirme 2.csproj.GenerateResource.cache
+C:\Users\NİGHT\Desktop\C# Projeler\Top Sektirme 2\Top Sektirme 2\obj\Debug\Top Sektirme 2.csproj.CoreCompileInputs.cache
+C:\Users\NİGHT\Desktop\C# Projeler\Top Sektirme 2\Top Sektirme 2\obj\Debug\Top Sektirme 2.exe
+C:\Users\NİGHT\Desktop\C# Projeler\Top Sektirme 2\Top Sektirme 2\obj\Debug\Top Sektirme 2.pdb
+C:\Users\NİGHT\Desktop\C# Projeler\Top Sektirme 2\Top Sektirme 2\obj\Debug\Top_Sektirme_2.Form1.resources
